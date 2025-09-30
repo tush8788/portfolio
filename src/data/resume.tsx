@@ -71,6 +71,7 @@ export const DATA = {
       title: "Full-Stack Developer",
       logoUrl: "/tablesprint_logo.jpeg",
       start: "Jan 2024",
+      end:'Present',
       description:
         "Developed a full-stack CRM system using React , Node.js , and PostgreSQL , implementing key features such as Kanban boards , filters , workflows , and user authentication. Built JWT-based authentication for secure login, registration, and session management, improving security. Integrated real-time Socket.io chat functionality to enhance team communication. Optimized form performance by 30% using React hooks and eﬃcient state management. Ensured responsive, scalable UI/UX design and improvedoverall system performance by 20%.",
     },
